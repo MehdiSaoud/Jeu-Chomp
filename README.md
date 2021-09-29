@@ -5,5 +5,4 @@ joué sur un rectangle composé de blocs carrés, souvent représenté comme une
 
 Se placer dans le dossier et exécuter la commande make puis ./Chomp
 
-supprimer l'exécutable avec la commande mrproper
-supprimer les fichiers objet (.o) avec la commande clean
+supprimer l'exécutable et les fichiers objet (.o) avec la commande make vacuum
